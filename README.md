@@ -2,7 +2,7 @@
 
 # Error-Simulator
 
-This is a Application to fool people into thinking you got an error of some sort, you can customize the error, what type, and pull off some epik trolls!
+This is a Application to fool people into thinking you got an error of some sort, you can customize the error, what type, and pull off some epik trolls!!
 
 # how dose it work?
 
