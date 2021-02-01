@@ -12,15 +12,16 @@ Open the Application
 
 ## Step 2
 
+On the Front Page you will see 3 error options!
 Select Error Type
 
-![Like this](https://imgur.com/jAafUKy)
+![Like this](https://ibb.co/ZG6MVwh)
 
 ## Step 3 & 4
 
-Put the title of your Error Message and the message, not shown in the picture, but you will see it
+Put the title of your Error Message and the message!
 
-![Like so](https://imgur.com/kIunr3A)
+![Like So](https://ibb.co/xhqw0zv)
 
 ## Step 5
 
